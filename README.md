@@ -1,6 +1,11 @@
 # Mariele Motta
 ### Machine Learning Research Scientist
 
+CUDA Projects
+- [Parallel Computing with GPUs](https://github.com/mfmotta/CUDA_labs)
+
+Experiments with open-source Large Language Models
+- [Open Pretrained Transformers](https://github.com/mfmotta/open_pretrained_transformers)
 
 
 Independent Machine Learning Projects
