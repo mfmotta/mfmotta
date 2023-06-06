@@ -14,7 +14,7 @@ Independent Machine Learning Projects
 - [Scaling (laws) with Bottleneck Layers](https://github.com/mfmotta/scaling-experiments)
 
 
-Certifications - Jan 2019 - March 2019
+Certifications (Jan 2019 - March 2019)
 
 - Introduction to Deep Learning (Stochastic methods, MLPs, CNNs, RNNs, Autoencoders, Image Generation, NLP, Generative Models, GANs.) [HSE University](https://www.coursera.org/account/accomplishments/certificate/TNRNLTKYMVJQ)
 - Neural Networks and Deep Learning [deeplearning.ai](https://www.coursera.org/account/accomplishments/certificate/UF8SHWPJESTY)
