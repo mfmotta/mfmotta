@@ -7,9 +7,10 @@ CUDA Projects
 Experiments with open-source Large Language Models
 - [Open Pretrained Transformers](https://github.com/mfmotta/open_pretrained_transformers)
 
-Guides:
-- [Setting up a Slurm Cluster on Google Cloud Platform](https://github.com/mfmotta/slurm-gcp#slurm-cluster-on-google-cloud-platform)
-
+Deploying Slurm Clusters on Google Cloud Platform:
+- With [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code) and [Schedmd/slurm-gcp](https://github.com/SchedMD/slurm-gcp): [Quick Slurm Cluster on GCP](https://github.com/mfmotta/slurm-gcp#slurm-cluster-on-google-cloud-platform)
+- With [hpc-toolkit](https://github.com/GoogleCloudPlatform/hpc-toolkit) blueprints.
+  
 
 Independent Machine Learning Projects
 - [A New Loss Function for Image Embeddings from Siamese Networks](https://github.com/mfmotta/computer_vision_experiments_loss_functions_tests) 
