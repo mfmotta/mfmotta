@@ -5,7 +5,7 @@ CUDA Projects
 - [Parallel Computing with GPUs](https://github.com/mfmotta/CUDA_labs)
 
 Experiments with open-source Large Language Models
-- [Open Pretrained Transformers](https://github.com/mfmotta/open_pretrained_transformers)
+- [NanoGPT](https://github.com/mfmotta/nanoGPT)
 
 Deploying Slurm Clusters on Google Cloud Platform:
 - With [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code) and [Schedmd/slurm-gcp](https://github.com/SchedMD/slurm-gcp): [Quick Slurm Cluster on GCP](https://github.com/mfmotta/slurm-gcp#slurm-cluster-on-google-cloud-platform)
