@@ -1,5 +1,5 @@
 # Mariele Motta
-### Machine Learning Research Scientist
+
 
 CUDA Projects
 - [Parallel Computing with GPUs](https://github.com/mfmotta/CUDA_labs)
