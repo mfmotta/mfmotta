@@ -22,6 +22,6 @@ Certifications (Jan 2019 - Mar 2019)
 
 - Introduction to Deep Learning (Stochastic methods, MLPs, CNNs, RNNs, Autoencoders, Image Generation, NLP, Generative Models, GANs.) [HSE University](https://www.coursera.org/account/accomplishments/certificate/TNRNLTKYMVJQ)
 - Neural Networks and Deep Learning [deeplearning.ai](https://www.coursera.org/account/accomplishments/certificate/UF8SHWPJESTY)
-- Structuring Machine Learning Projects[deeplearning.ai](https://www.coursera.org/account/accomplishments/certificate/GDW9L625B6AD)
+- Structuring Machine Learning Projects [deeplearning.ai](https://www.coursera.org/account/accomplishments/certificate/GDW9L625B6AD)
 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization [deeplearning.ai](https://www.coursera.org/account/accomplishments/certificate/GXP6H578LCX8)
 
