@@ -13,7 +13,7 @@ Deploying Slurm Clusters on Google Cloud Platform:
   
 
 Independent Machine Learning Projects
-- [A New Loss Function for Image Embeddings from Siamese Networks](https://github.com/mfmotta/computer_vision_experiments_loss_functions_tests) 
+- [Exploring a (slightly) different Contrastive Loss with Siamese Networks](https://github.com/mfmotta/computer_vision_experiments_loss_functions_tests) 
 - [Studying Generalization Properties of Neural Networks](https://github.com/mfmotta/deep_learning_generalization_experiments)
 - [Scaling (laws) with Bottleneck Layers](https://github.com/mfmotta/scaling-experiments)
 
